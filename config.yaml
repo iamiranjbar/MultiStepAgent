@@ -1,6 +1,6 @@
 model: "llama3.1:8b"
 num_ctx: 4096
 temperature: 0.2
-max_steps: 6
+max_steps: 2
 tool_timeout_s: 25
 memory_path: "runs/latest.jsonl"
